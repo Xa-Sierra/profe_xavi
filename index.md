@@ -103,6 +103,6 @@ Regular reporting fosters responsibility and helps team members stay focused on 
 ### But if your team can't get together...
 
 **That's why we needs HackMD!**
-![](https://i.imgur.com/czzaRnH.png =500x)
+![](images/lunas_3.png)
 
 </div>
