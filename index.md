@@ -1,7 +1,3 @@
----
-title: '[Layout] Two columns'
-
----
 
 ---
 title: 'Las matemáticas divertidas'
