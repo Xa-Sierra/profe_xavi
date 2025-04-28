@@ -99,7 +99,7 @@ Regular reporting fosters responsibility and helps team members stay focused on 
 ### But if your team can't get together...
 
 **That's why we needs HackMD!**
-![](/assets/lunas_3.png)
+![](/docs/assets/lunas_3.png)
 
 </div>
 
