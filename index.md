@@ -1,9 +1,6 @@
-
 ---
-title: 'Las matemáticas divertidas'
+title: Hola
 ---
-
-
 
 <style>
 .two-column-layout {
@@ -48,14 +45,13 @@ title: 'Las matemáticas divertidas'
     margin-top: 0;    
 }
 </style>
-
 # Relamente son divertidas 🙋
 
 In the fast-paced world of project management, effective communication and collaboration are critical to achieving success. One of the most effective strategies for ensuring that a project stays on track is for teams to meet at least once a week. Regular weekly meetings offer numerous benefits that can significantly enhance the likelihood of a project's success.
 
 <div class="two-column-layout">
 
-![image](https://hackmd.io/_uploads/SyHssWcKR.png =600x)
+![image](https://hackmd.io/_uploads/SyHssWcKR.png)
 
 ### Here’s why maintaining a weekly meeting schedule is essential:
 
@@ -103,6 +99,8 @@ Regular reporting fosters responsibility and helps team members stay focused on 
 ### But if your team can't get together...
 
 **That's why we needs HackMD!**
-![/images](lunas_3.png)
+![](/images/lunas_3.png)
 
 </div>
+
+
